@@ -65,6 +65,8 @@ The project consists of a React-based frontend that interacts with a Node.js bac
 ### Folder Structure
 
 blog-list-project/
+
+
 ├── backend/
 │ ├── controllers/ # Business logic for authentication and blog management
 │ ├── models/ # Mongoose models (User, Blog)
@@ -74,6 +76,8 @@ blog-list-project/
 │ ├── .env # Environment variables for sensitive information
 │ ├── server.js # Entry point to start the server
 │ ├── package.json # Backend dependencies and scripts
+
+
 ├── frontend/
 │ ├── src/
 │ │ ├── components/ # React components (BlogList, SearchBar, etc.)
